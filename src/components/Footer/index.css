@@ -1,0 +1,17 @@
+.footer-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 60px;
+    background-color: #343a40;
+    padding: 20px;
+    color: rgb(198, 194, 194);
+    width: 100%;
+}
+.footer-items{
+    width: 35%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: rgb(160, 157, 157);
+}

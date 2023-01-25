@@ -1,0 +1,31 @@
+.carousel{
+    background-image: url("https://thumbs.dreamstime.com/b/predictive-analytics-big-data-analysis-business-intelligence-internet-modern-technology-concept-virtual-screen-140362030.jpg");
+    background-size: cover;
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 40px;
+}
+.carousel-title{
+    color: white;
+    background-color: #1755d178;
+    font-size: 50px;
+    padding: 40px;
+    text-align: center;
+}
+.carousel-button{
+    display: inline-block;
+    background-color:#6d9dfc;
+    border: none;
+    outline: none;
+    padding: 10px;
+    border-radius: 20px;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+}
+.home{
+    padding: 30px;
+}

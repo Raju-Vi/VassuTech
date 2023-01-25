@@ -1,0 +1,18 @@
+.partners-title{
+    color: #6274cc;
+    margin-bottom: 5px;
+}
+.hr{
+    width: 50px;
+    border-color: #6274cc;
+    height: 2px;
+    background-color: #6274cc;
+    margin-top: 0px;
+}
+.partners-logo{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+
+}

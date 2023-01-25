@@ -1,0 +1,32 @@
+.git-title{
+    color: #6274cc;
+    margin-bottom: 5px;
+}
+.git-items{
+    border-bottom: 1px solid #f0f0f0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 33%;
+    text-align: center;
+    height: 200px;
+    margin: 0px 10px;
+}
+.git-container{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-bottom: 50px;
+}
+.git-description{
+    color: #6274cc;
+    font-weight: 600;
+}
+.git-item-title{
+    margin-bottom: 5px;
+    font-weight: 600;
+}
+.icon{
+    color: #6274cc;
+}
